@@ -4,5 +4,5 @@ Parameters used
 
 Resoruc group = sbddedvrg1 
 
-Storage Account
+Storage Account = sbdstroagedevrg
 
